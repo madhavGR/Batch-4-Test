@@ -5,3 +5,4 @@ similarly,for each name the arrow should indicate how many more problems id the 
 residence- pastebin.com/W60znBev
         roll- pastebin.com/WgADzFsr
         also in leaderboard where we select sections add a option for hostelers and day scholars
+             means dropdown for residence by roll and pie chart for total questions solved by day scholar and hostellers
