@@ -2,3 +2,6 @@ implement a movement feature: you are provided with a past data https://pastebin
 similarly,for each name the arrow should indicate how many more problems id the user solve over the weeks .the latest data is obviously in data.json of test repo
 
        q 2- segregate data and create piechart on basis of how many questions solved by day scholars and how many by hostellers
+residence- pastebin.com/W60znBev
+        roll- pastebin.com/WgADzFsr
+        also in leaderboard where we select sections add a option for hostelers and day scholars
